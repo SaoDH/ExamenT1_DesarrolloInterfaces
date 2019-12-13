@@ -1,0 +1,20 @@
+
+.jfx-button:hover {
+	-fx-background-color: #FDCB72;
+}
+.jfx-button{
+	-fx-background-color:  #f2b90f;
+}
+.footer{
+	-fx-background-color: #f2b90f;
+}
+
+.header{
+	-fx-background-image: url("../../view.assets/sky.jpeg");
+    -fx-background-size: cover;
+    -fx-background-repeat: no-repeat;
+}
+
+.imgLogin{
+	-fx-background-radius: 50;
+}
